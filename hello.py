@@ -129,3 +129,5 @@ print("I am learning Git branches!")
 print("Git and Python are working together!")
 
 print("pull test")
+print("This is a fetch test!")
+
