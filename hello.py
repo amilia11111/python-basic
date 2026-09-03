@@ -122,9 +122,8 @@ print(user["name"])
     # print(f"{user['name']} is {user['age'] } years old and want to be a {user['career']}")
 
 print("I am learning Git now!test go go go")
-print("3th commit")
 
-print("I am learning Git branches!")
+print("3th commit")
 
 print("Git and Python are working together!")
 
@@ -138,3 +137,5 @@ print("vs code to do123")
 
 print("I am learning Git locally!")
 print("I am learning Git on GitHub!")
+
+print("3th commit")
